@@ -1,0 +1,2 @@
+# contests
+Competitive programming playground
