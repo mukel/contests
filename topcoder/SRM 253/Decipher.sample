@@ -1,0 +1,47 @@
+-- Example 0
+1
+ABBBCC
+XYZ
+
+1
+ZXXXYY
+-- Example 1
+1
+RZLW
+CEFD
+
+1
+EDCF
+-- Example 2
+2
+XX YYY Z YYY XX
+WWWWWZWWWWW
+ETMQ
+
+2
+MM TTT Q TTT MM
+EEEEEQEEEEE
+-- Example 3
+5
+ X 
+
+ 
+  
+   
+B
+
+5
+ B 
+
+ 
+  
+   
+-- Example 4
+2
+RAZVLHAR KNW CNR
+HEA HNFMNSAR NFAK
+EORTPNFHSCDIWG
+
+2
+REGISTER NOW FOR
+THE TOPCODER OPEN

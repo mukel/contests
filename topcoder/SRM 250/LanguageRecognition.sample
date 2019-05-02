@@ -1,0 +1,28 @@
+-- Example 0
+4
+This is an English sentence.
+Dieser ist ein Deutscher Satz.
+C'est une phrase Francaise.
+Dit is een Nederlandse zin.
+In welke taal is deze zin geschreven?
+
+3
+-- Example 1
+5
+aaaaa
+bbbb
+ccc
+dd
+e
+xxx
+
+0
+-- Example 2
+4
+AABB
+AaBb
+A? B!
+ab!@#$%
+ab
+
+0
